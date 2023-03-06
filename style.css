@@ -359,10 +359,10 @@ section .title::after{
     background: crimson;
 }
 .skills-content .right .html::before{
-    width: 99%;
+    width: 80%;
 }
 .skills-content .right .css::before{
-    width: 90%;
+    width: 70%;
 }
 .skills-content .right .js::before{
     width: 50%;
@@ -371,7 +371,7 @@ section .title::after{
     width: 40%;
 }
 .skills-content .right .wp::before{
-    width: 60%;
+    width: 40%;
 }
 
 /* teams section styling */
